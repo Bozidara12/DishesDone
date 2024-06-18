@@ -1,0 +1,16 @@
+C:\Божидара11д\Izpitvane\Izpitvane8\bin\Debug\Izpitvane8.exe.config
+C:\Божидара11д\Izpitvane\Izpitvane8\bin\Debug\Izpitvane8.exe
+C:\Божидара11д\Izpitvane\Izpitvane8\bin\Debug\Izpitvane8.pdb
+C:\Божидара11д\Izpitvane\Izpitvane8\bin\Debug\EntityFramework.dll
+C:\Божидара11д\Izpitvane\Izpitvane8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Божидара11д\Izpitvane\Izpitvane8\bin\Debug\EntityFramework.xml
+C:\Божидара11д\Izpitvane\Izpitvane8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Божидара11д\Izpitvane\Izpitvane8\obj\Debug\Izpitvane8.csproj.AssemblyReference.cache
+C:\Божидара11д\Izpitvane\Izpitvane8\obj\Debug\Izpitvane8.Form1.resources
+C:\Божидара11д\Izpitvane\Izpitvane8\obj\Debug\Izpitvane8.Properties.Resources.resources
+C:\Божидара11д\Izpitvane\Izpitvane8\obj\Debug\Izpitvane8.csproj.GenerateResource.cache
+C:\Божидара11д\Izpitvane\Izpitvane8\obj\Debug\Izpitvane8.csproj.CoreCompileInputs.cache
+C:\Божидара11д\Izpitvane\Izpitvane8\obj\Debug\Izpitvane8.csproj.Up2Date
+C:\Божидара11д\Izpitvane\Izpitvane8\obj\Debug\Izpitvane8.exe
+C:\Божидара11д\Izpitvane\Izpitvane8\obj\Debug\Izpitvane8.pdb
+C:\Божидара11д\Izpitvane\Izpitvane8\obj\Debug\Izpitvane8.Migrations.InitialMigration.resources

@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\izpitvane8\\diagram.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|solutionrelative:izpitvane8\\diagram.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\izpitvane8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|solutionrelative:izpitvane8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|c:\\\u0431\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\izpitvane\\izpitvane8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|solutionrelative:izpitvane8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\izpitvane8\\model\\dishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|solutionrelative:izpitvane8\\model\\dishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\izpitvane8\\controller\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|solutionrelative:izpitvane8\\controller\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\izpitvane8\\model\\dishtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|solutionrelative:izpitvane8\\model\\dishtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Dishes_Bojidara/True/SqlTable/dbo.Dishes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Dishes_Bojidara/True/SqlTable/dbo.DishTypes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\izpitvane8\\model\\dishdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|solutionrelative:izpitvane8\\model\\dishdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\izpitvane8\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|solutionrelative:izpitvane8\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\izpitvane8\\migrations\\202405280831013_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|solutionrelative:izpitvane8\\migrations\\202405280831013_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\izpitvane8\\controller\\dishtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|solutionrelative:izpitvane8\\controller\\dishtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\izpitvane8\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{22E6E498-E3CC-4C5E-BA52-EEB2C3AAC398}|Izpitvane8\\Izpitvane8.csproj|solutionrelative:izpitvane8\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Form1.cs",
+              "RelativeDocumentMoniker": "Izpitvane8\\Form1.cs",
+              "ToolTip": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Form1.cs [Design]",
+              "RelativeToolTip": "Izpitvane8\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:15:01.482Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Form1.cs",
+              "RelativeDocumentMoniker": "Izpitvane8\\Form1.cs",
+              "ToolTip": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Form1.cs",
+              "RelativeToolTip": "Izpitvane8\\Form1.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAEwKoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:03:34.693Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Diagram.xsd",
+              "DocumentMoniker": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Diagram.xsd",
+              "RelativeDocumentMoniker": "Izpitvane8\\Diagram.xsd",
+              "ToolTip": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Diagram.xsd",
+              "RelativeToolTip": "Izpitvane8\\Diagram.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-29T09:31:01.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.DishTypes [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Dishes_Bojidara/True/SqlTable/dbo.DishTypes.sql",
+              "ToolTip": "dbo.DishTypes [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-28T09:14:47.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DishesController.cs",
+              "DocumentMoniker": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Controller\\DishesController.cs",
+              "RelativeDocumentMoniker": "Izpitvane8\\Controller\\DishesController.cs",
+              "ToolTip": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Controller\\DishesController.cs",
+              "RelativeToolTip": "Izpitvane8\\Controller\\DishesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:15:19.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DishType.cs",
+              "DocumentMoniker": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Model\\DishType.cs",
+              "RelativeDocumentMoniker": "Izpitvane8\\Model\\DishType.cs",
+              "ToolTip": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Model\\DishType.cs",
+              "RelativeToolTip": "Izpitvane8\\Model\\DishType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:16:49.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dishes.cs",
+              "DocumentMoniker": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Model\\Dishes.cs",
+              "RelativeDocumentMoniker": "Izpitvane8\\Model\\Dishes.cs",
+              "ToolTip": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Model\\Dishes.cs",
+              "RelativeToolTip": "Izpitvane8\\Model\\Dishes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:17:19.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Dishes [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Dishes_Bojidara/True/SqlTable/dbo.Dishes.sql",
+              "ToolTip": "dbo.Dishes [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-28T07:08:51.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Izpitvane8\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Izpitvane8\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:30:15.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DishTypeController.cs",
+              "DocumentMoniker": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Controller\\DishTypeController.cs",
+              "RelativeDocumentMoniker": "Izpitvane8\\Controller\\DishTypeController.cs",
+              "ToolTip": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Controller\\DishTypeController.cs",
+              "RelativeToolTip": "Izpitvane8\\Controller\\DishTypeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:15:32.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DishDbContext.cs",
+              "DocumentMoniker": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Model\\DishDbContext.cs",
+              "RelativeDocumentMoniker": "Izpitvane8\\Model\\DishDbContext.cs",
+              "ToolTip": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Model\\DishDbContext.cs",
+              "RelativeToolTip": "Izpitvane8\\Model\\DishDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:58:12.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "202405280831013_InitialMigration.cs",
+              "DocumentMoniker": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Migrations\\202405280831013_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Izpitvane8\\Migrations\\202405280831013_InitialMigration.cs",
+              "ToolTip": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\Migrations\\202405280831013_InitialMigration.cs",
+              "RelativeToolTip": "Izpitvane8\\Migrations\\202405280831013_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:31:14.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\App.config",
+              "RelativeDocumentMoniker": "Izpitvane8\\App.config",
+              "ToolTip": "C:\\\u0411\u043E\u0436\u0438\u0434\u0430\u0440\u043011\u0434\\Izpitvane\\Izpitvane8\\App.config",
+              "RelativeToolTip": "Izpitvane8\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-27T07:06:00.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
